@@ -1,0 +1,6 @@
+{
+  "web_listen_addr": "30008",
+  "app": {
+    "debug": true
+  }
+}
